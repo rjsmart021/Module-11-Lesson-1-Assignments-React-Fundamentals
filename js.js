@@ -7,7 +7,6 @@ export default function Navbar() {
                             gap-5 justify-between w-full 
                             items-center max-w-5xl mx-auto">
                 <h3 className="text-3xl text-emerald-500 font-bold">
-                    GeeksforGeeks
                 </h3>
                 <ul className="flex gap-3 align-center p-1 flex-wrap">
                     <li>
