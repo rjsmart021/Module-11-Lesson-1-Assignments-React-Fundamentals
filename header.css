@@ -1,5 +1,5 @@
 .header {
-    background-image: url('bgImage.png');
+    background-image: url('Image.png');
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -10,6 +10,6 @@
 
 .header-content h1 {
     color: white;
-    font-size: 3rem;
+    font-size: 4rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
