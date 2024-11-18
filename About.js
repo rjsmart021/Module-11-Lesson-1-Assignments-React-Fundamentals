@@ -8,8 +8,7 @@ const About = () => {
       <h2>About Me</h2>
       <div className="about-content">
         <p>
-          Hello! I'm a budding software developer currently learning React. React is awesome and this 
-          assignment was pretty easy and enjoyable.  
+          Hello! My name is Reggie. I am a Software developer and Data Analyst. I am enjoying this course.  
         </p>
       </div>
     </section>
